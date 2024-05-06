@@ -2,7 +2,7 @@
 name = "smart-currency-converter"
 version = "0.1.0"
 description = ""
-authors = ["NatalicioNascimento22 <francisco.nascimento@cakeerp.com>"]
+authors = ["NatalicioNascimento22 <natalicio.eng.soft@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
